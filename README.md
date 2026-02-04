@@ -1,10 +1,10 @@
-# Sinanify: Optimal Pixel Transport Visualization
+![sinanified](https://github.com/user-attachments/assets/b5566371-5456-48d5-8036-803a0315896e)![sinanified](https://github.com/user-attachments/assets/b5566371-5456-48d5-8036-803a0315896e)# Sinanify: Optimal Pixel Transport Visualization
 
 **Sinanify** is a Python-based computational visualization tool that morphs one image into another by solving the **Linear Assignment Problem (LAP)**. 
 
 Unlike standard cross-dissolve transitions (fading), this project treats every pixel as a particle. It calculates the optimal path for every single pixel from the source image to the target image, minimizing a cost function based on color similarity and spatial proximity.
 
-![sinanified](https://github.com/user-attachments/assets/7e74f3da-10af-468e-8cac-de692ce243fb)
+![sinanified](https://github.com/user-attachments/assets/de06f575-113f-4fc5-b390-0cd0e587d837)
 
 ## Mathematical Background
 
