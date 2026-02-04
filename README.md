@@ -4,6 +4,8 @@
 
 Unlike standard cross-dissolve transitions (fading), this project treats every pixel as a particle. It calculates the optimal path for every single pixel from the source image to the target image, minimizing a cost function based on color similarity and spatial proximity.
 
+(Long story short, it turns every uploaded image into a picture of my friend Sinan.)
+
 ![sinanified](https://github.com/user-attachments/assets/de06f575-113f-4fc5-b390-0cd0e587d837)
 
 ## Mathematical Background
