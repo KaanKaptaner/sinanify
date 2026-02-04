@@ -4,6 +4,8 @@
 
 Unlike standard cross-dissolve transitions (fading), this project treats every pixel as a particle. It calculates the optimal path for every single pixel from the source image to the target image, minimizing a cost function based on color similarity and spatial proximity.
 
+![sinanified](https://github.com/user-attachments/assets/7e74f3da-10af-468e-8cac-de692ce243fb)
+
 ## Mathematical Background
 
 This project implements the **Hungarian Algorithm** (via `scipy.optimize.linear_sum_assignment`) to solve the combinatorial optimization problem.
