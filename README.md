@@ -37,7 +37,7 @@ Where:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/sinanify.git](https://github.com/YOUR_USERNAME/sinanify.git)
+    git clone [https://github.com/KaanKaptaner/sinanify.git](https://github.com/YOUR_USERNAME/sinanify.git)
     cd sinanify
     ```
 
